@@ -1,1 +1,1 @@
-print('fadsf')
+print('fad  sf')
