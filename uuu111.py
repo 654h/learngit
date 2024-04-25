@@ -1,2 +1,0 @@
-print('fad  sf')
-fsdff 
