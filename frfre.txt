@@ -1,0 +1,26 @@
+[33m8b4eeb7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 8b4eeb70978f69d07cef5e1bc9894232e857c1aa
+[33m8dd29e0[m HEAD@{1}: reset: moving to HEAD^
+[33m8b4eeb7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m HEAD@{2}: commit: 第五期
+[33m8dd29e0[m HEAD@{3}: reset: moving to HEAD^
+[33mde7e525[m HEAD@{4}: commit: y
+[33m8dd29e0[m HEAD@{5}: commit: oh
+[33m05ec422[m HEAD@{6}: reset: moving to HEAD^
+[33m72bf8d7[m HEAD@{7}: reset: moving to 72bf8d7b09aeeab17a7b54f7327c05ccce52be1a
+[33m0c9a59d[m HEAD@{8}: reset: moving to HEAD~2
+[33m72bf8d7[m HEAD@{9}: reset: moving to HEAD~1
+[33mf161d79[m HEAD@{10}: commit: 5
+[33m72bf8d7[m HEAD@{11}: commit: 4
+[33m05ec422[m HEAD@{12}: commit: 3
+[33m0c9a59d[m HEAD@{13}: commit: 2
+[33me1b3dfe[m HEAD@{14}: commit: a
+[33m0c8c4b8[m HEAD@{15}: commit: fdsf
+[33m58e96d3[m HEAD@{16}: commit: nfjdsfk
+[33m3060e0f[m HEAD@{17}: commit: a
+[33mc88a533[m HEAD@{18}: commit: 1
+[33m843c45e[m HEAD@{19}: commit: 111
+[33m5ba48af[m HEAD@{20}: commit (amend): bububu
+[33m131f555[m HEAD@{21}: commit: faf
+[33mc121a68[m HEAD@{22}: commit: 我
+[33mb875d5f[m HEAD@{23}: commit: fasdf
+[33m93d7a0e[m HEAD@{24}: commifasdfaft: fasdf
+[33mbc5a26b[m HEAD@{25}: commit (initial): fadff
