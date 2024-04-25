@@ -1,4 +1,4 @@
 Git is a distributed version control system.
-Git is free software    distributed under the GPL.
+Git is fr  ee software    distributed under the GPL.
 Git has a muta   ble index called stage.
-Git tracks   c hanges.
+Git tracks   c    hanges.
