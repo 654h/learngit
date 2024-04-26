@@ -1,3 +1,3 @@
 import os
 
-print(os.listdir(os.getcwd()))
+print(os.listdir(os.gefdsftcwd()))
