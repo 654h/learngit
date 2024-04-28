@@ -1,3 +1,1 @@
-import os
-
-print(os.lisfadftdir(os.getcwd()))fdfaf
+print('我是不是被删除了呀，怎么又回来了')
