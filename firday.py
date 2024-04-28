@@ -1,1 +1,0 @@
-print('天气不错')fsadf3GMYpLEceYrteIsy3GMYpLEceYrteIsy
