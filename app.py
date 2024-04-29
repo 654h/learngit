@@ -5,7 +5,7 @@ def app():
 print(app())
 
 def my():
-    print('这是我修改的')
+    print('这里我再一次做了修改')
 
 
 def friend():
